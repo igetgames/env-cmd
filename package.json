@@ -3,8 +3,8 @@
   "version": "7.0.0",
   "description": "Executes a command using the envs in the provided env file",
   "main": "lib/index.js",
-  "engines" : {
-    "node" : ">=4.0.0"
+  "engines": {
+    "node": ">=4.0.0"
   },
   "bin": {
     "env-cmd": "bin/env-cmd.js"
